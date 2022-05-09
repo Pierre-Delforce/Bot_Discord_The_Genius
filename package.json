@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Version adapté pour Github d'un bot pour une organisation d'un jeu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierre",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-cron": "^3.0.0",
+    "node-schedule-tz": "^1.2.1-4"
+  }
+}
